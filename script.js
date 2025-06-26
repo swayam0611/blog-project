@@ -20,7 +20,7 @@ let currentIndex = 0;
         }
         setInterval(nextSlide, 2000);
 
-        const targetWord = "BRAIN";
+        const targetWord = "Maker";
         let currentGuess = "";
         let guessNumber = 0;
 
